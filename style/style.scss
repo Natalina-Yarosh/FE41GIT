@@ -29,3 +29,12 @@
     color: #fff;
   }
 }
+
+.wrap {
+  background-color: aqua;
+  padding: 100px 0;
+
+  &__title {
+    text-align: center;
+  }
+}

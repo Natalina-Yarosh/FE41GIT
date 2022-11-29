@@ -26,4 +26,12 @@
 .footer__text {
   text-align: center;
   color: #fff;
+}
+
+.wrap {
+  background-color: aqua;
+  padding: 100px 0;
+}
+.wrap__title {
+  text-align: center;
 }/*# sourceMappingURL=style.css.map */
